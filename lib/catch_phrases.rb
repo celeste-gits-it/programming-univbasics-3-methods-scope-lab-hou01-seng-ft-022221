@@ -13,4 +13,5 @@ end
 
 def "all_phrases"
   puts #{mario} #{toadstool} #{link}
+  puts phrase
 end 
