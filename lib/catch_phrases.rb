@@ -18,5 +18,5 @@ def catch_phrase
 end
 
 def all_phrases
-  mario = ''
-  toadstool = Thank You Mario! But Our Princess Is In Another Castle!
+  mario = "It's-a me, Mario!"
+  toadstool = "Thank You Mario! But Our Princess Is In Another Castle!"
