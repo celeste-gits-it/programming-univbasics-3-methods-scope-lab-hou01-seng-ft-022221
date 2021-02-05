@@ -3,7 +3,7 @@ def mario
   puts phrase
 end
 
-def toadstool
+```def toadstool
   puts status
 end
 
@@ -23,3 +23,5 @@ def all_phrases
   link = "It's Dangerous To Go Alone! Take This."
   puts "#{mario}, #{toadstool}, #{link}"
 end
+
+```
