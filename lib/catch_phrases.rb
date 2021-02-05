@@ -11,3 +11,11 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end  
 
+  
+def catch_phrase
+  phrase = "It's-a me, Mario!"
+  puts "#{phrase}"
+end
+
+def all_phrases
+  mario = 
