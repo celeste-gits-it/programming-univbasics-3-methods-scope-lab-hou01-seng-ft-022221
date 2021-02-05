@@ -11,7 +11,3 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end  
 
-def "all_phrases"
-  puts #{mario} #{toadstool} #{link}
-  puts phrase
-end 
